@@ -3,3 +3,5 @@ This project explores how we can create spectrograms to identify different compo
 
 
 We further look into how we can use Fast Fourier Transforms and Inverse FFTs for signal processing.
+
+### In order to listen to the filtered Audio Signals, open this project in Jupyter notebook
